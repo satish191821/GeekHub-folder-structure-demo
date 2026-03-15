@@ -1,6 +1,6 @@
 class Solution {
     boolean twoSum(int arr[], int target) {
-        // code here rehytgutghgyt uytgrtify4edrterrtytyrtyrf
+        // code here rehytgutghgyt uytrtgrtirrtertfy4edrterrtytyrtyrf
         int n = arr.length;
         HashSet <Integer> set = new HashSet<>();
         
